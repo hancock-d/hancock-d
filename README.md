@@ -5,12 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Learning how to transition from a Special Forces Green Beret to a technically savvy contributor
-- 🌱 I’m currently learning ... C#/object-oriented programming, Azure, life
-- 🤔 I’m looking for help with ...Finding a launching point for my new career as a Software Engineer or Program Manager!
+- 🔭 I’m currently learning how to transition from a Special Forces Green Beret to a technically savvy contributor
+- 🤔 I’m looking for help with ...Finding a launching point for my new career as a Software Engineer or Program Manager! (or navigating life in general)
 - 💬 Ask me about ...My life, please, I have so many interesting experiences!
-- 📫 How to reach me: ...Email, LinkedIn
-- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I have learned extreme diplomatic negotiation skills but my toddler seems to best me every time
 -->
 
