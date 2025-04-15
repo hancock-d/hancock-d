@@ -1,4 +1,19 @@
-## Hi there 👋
+## Welcome to my GitHub!
+
+<!--
+**hancock-d/hancock-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... Learning how to transition from a Special Forces Green Beret to a technically savvy contributor
+- 🌱 I’m currently learning ... C#/object-oriented programming, Azure, life
+- 🤔 I’m looking for help with ...Finding a launching point for my new career as a Software Engineer or Program Manager!
+- 💬 Ask me about ...My life, please, I have so many interesting experiences!
+- 📫 How to reach me: ...Email, LinkedIn
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ... I have learned extreme diplomatic negotiation skills but my toddler seems to best me every time
+-->
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hancock-dave) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:david.t.hancock@outlook.com) 
 
